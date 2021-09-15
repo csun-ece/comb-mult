@@ -64,4 +64,4 @@ Your model should use two's components with full adder and half adder you design
 Write a VHDL testbench for your complete design and simulate your design to show it
 successfully multiplies two signed numbers. 
 
-Note: Your submitted assignment must be synthesizable to get the full point.
+Note: Your submitted VHDL project must be synthesizable to get the full point.
