@@ -52,7 +52,7 @@ successfully multiplies two unsigned numbers.
 Part II: The given block diagram can be modified to implement a signed 4x4 multiplier
 according to the diagram below. 
 
-![signed diagram](signed_diagram.png)
+![signed diagram](./img/signed_diagram.png)
 As it can be seen, each partial product can be sign extended and the final result will be the sum
 of all these partial products.
 
