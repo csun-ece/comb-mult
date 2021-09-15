@@ -15,10 +15,10 @@
 Simulation waveforms for Half Adder and Full adder 
 
 ## Task 4 result
-Simulation waveforms for top design
+Simulation waveforms for top design unsigned multiplier
 
 ## Task 6 result
-Simulation waveforms for top design for 4x4 signed multiplier  
+Simulation waveforms for top design signed multiplier
 
 -------------
 -------------
